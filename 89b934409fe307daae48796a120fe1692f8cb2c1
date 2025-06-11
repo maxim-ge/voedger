@@ -1,1 +1,3 @@
 Resolves issue 'i10nmem: prevent resource leaks'
+
+Resolves #3790 i10nmem: prevent resource leaks
